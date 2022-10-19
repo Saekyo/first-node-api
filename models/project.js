@@ -1,3 +1,5 @@
+// model
+// 
 const mongoose = require('mongoose')
 
 const projectSchema = mongoose.Schema({
