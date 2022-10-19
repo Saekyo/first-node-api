@@ -35,5 +35,6 @@ mongoose
 
 //Server
 app.listen(3000, () => {
+    // cke console server running atau tidak
     console.log('server is running http://localhost:3000');
 });
